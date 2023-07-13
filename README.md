@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Nice to meet you! I am Tanisha, a final-year student at SMU majoring in Artificial Intelligence and Data Science & Analytics.
+
+I am passionate about using data analytics to accelerate business growth, and learning about the opportunities that intelligent use of data opens up for every industry vertical.
+
+I am proficient in Python, MySQL, R, Power BI, Tableau and Microsoft Excel
+
 <!--
 **tanishabhagwanani/tanishabhagwanani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
