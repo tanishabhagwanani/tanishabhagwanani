@@ -1,6 +1,6 @@
 ## Hi there, I'm Tanisha 👋
 
-Nice to meet you! I am Tanisha, a final-year student at SMU majoring in Artificial Intelligence and Data Science & Analytics.
+Nice to meet you! I am a final-year student at SMU majoring in Artificial Intelligence and Data Science & Analytics.
 
 I am proficient in Python, MySQL, R, Power BI, Tableau and Microsoft Excel.
 
