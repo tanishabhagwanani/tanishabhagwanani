@@ -2,7 +2,10 @@
 
 Nice to meet you! I am a final-year student at SMU majoring in Artificial Intelligence and Data Science & Analytics.
 
-I am proficient in Python, MySQL, R, Power BI, Tableau and Microsoft Excel.
+I am proficient in:
+- 👾 Programming Languages: Python, R
+- 📈 Visualization Tools: Power BI, Tableau
+- 📊 Statistical Analysis: Microsoft Excel, Google Sheets
 
 <!--
 **tanishabhagwanani/tanishabhagwanani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
