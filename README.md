@@ -3,7 +3,7 @@
 Nice to meet you! I am a final-year student at SMU majoring in Artificial Intelligence and Data Science & Analytics.
 
 I am proficient in:
-- 👾 Programming Languages: Python, R
+- 👾 Programming Languages: Python, R, MySQL
 - 📈 Visualization Tools: Power BI, Tableau
 - 📊 Statistical Analysis: Microsoft Excel, Google Sheets
 
