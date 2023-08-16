@@ -1,4 +1,4 @@
-## Hi there, I'm Tanisha 👋
+## Hello! I'm Tanisha 👋
 
 Nice to meet you! I am a final-year student at SMU majoring in Artificial Intelligence and Data Science & Analytics.
 
